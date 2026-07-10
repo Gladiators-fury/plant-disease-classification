@@ -99,21 +99,27 @@ The model is evaluated using:
 
 # 🖼️ Results
 
-## Accuracy Curve
+> ## 📈 Training vs Validation Accuracy
 
-> *(Add accuracy graph here)*
-
----
-
-## Loss Curve
-
-> *(Add loss graph here)*
+<p align="center">
+  <img src="images/accuracy_curve.png" width="750">
+</p>
 
 ---
 
-## Confusion Matrix
+> ## 📉 Training vs Validation Loss
 
-> *(Add confusion matrix here)*
+<p align="center">
+  <img src="images/loss_curve.png" width="750">
+</p>
+
+---
+
+> ## 🔥 Confusion Matrix
+
+<p align="center">
+  <img src="images/confusion_matrix.png" width="750">
+</p>
 
 ---
 
